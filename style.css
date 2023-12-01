@@ -1,0 +1,121 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    #baba {
+        background-color: #111111;
+    }
+    
+    #ana {
+        padding: 1px;
+        margin-top: 130px;
+        /*margin-bottom: 49vh;*/
+        margin-left: 89px;
+        margin-right: 75px;
+        /* border: 1px solid blue;*/
+        height: 290px;
+        width: 1200px;
+    }
+    
+    #alt {
+        padding: 1px;
+        margin-top: 70px;
+        margin-left: 223px;
+        margin-bottom: 100px;
+        height: 50px;
+        width: 950px;
+        /*border: 1px solid blue;*/
+    }
+    
+    .element {
+        padding-top: 6px;
+        font-size: 25px;
+        font-weight: 500;
+        text-align: center;
+        color: #111111;
+        display: inline-block;
+        border: 1px solid rgb(224, 214, 214);
+        height: 40px;
+        width: 63px;
+        margin-right: 0.5px;
+        border-radius: 10px;
+        transition: 0.7s;
+        box-shadow: 0px 0px 15px rgb(255 255 255 / 20%);
+    }
+    
+    .hiden {
+        visibility: hidden;
+    }
+    
+    h1 {
+        position: absolute;
+        color: rgb(255, 255, 72);
+        font-weight: 700;
+        font-size: 45px;
+        left: 450px;
+        top: 25px;
+        text-shadow: 1px 1px rgb(255, 255, 72);
+        transition: 0.7s ease;
+    }
+    
+    #altbaslik {
+        background-color: #1f1f1f;
+        border: 1px solid #111111;
+        border-radius: 10px;
+        width: 70px;
+        height: 70px;
+        position: fixed;
+        bottom: 25px;
+        left: 25px;
+        box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.6);
+        transition: 0.7s ease;
+    }
+    
+    .black {
+        background-color: #111111;
+    }
+    
+    .none {
+        display: none;
+    }
+    
+    .fount {
+        position: absolute;
+        color: white;
+        margin-bottom: 70px;
+        font-weight: 300;
+        font-size: 20px;
+    }
+    
+    .white {
+        background-color: rgb(148, 148, 255);
+    }
+    
+    .red {
+        background-color: red;
+        color: white;
+    }
+    
+    .green {
+        background-color: rgb(0, 255, 0);
+        color: rgb(0, 0, 0);
+    }
+    
+    .prpl {
+        background-color: purple;
+        color: white;
+    }
+    
+    .transform {
+        transform: scale(1.4);
+    }
+    
+    .transformbaslik {
+        transform: scale(1.1);
+    }
+    
+    .transformaltbaslik {
+        transform: scale(1.2);
+    }

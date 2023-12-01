@@ -1,0 +1,57 @@
+.kaer {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    border-radius: 3px;
+}
+
+#kirmizi {
+    background-color: red;
+    top: 75px;
+    left: 300px;
+}
+
+#a {
+    top: 75px;
+    left: 325px;
+}
+
+#beyaz {
+    background-color: rgb(148, 148, 255);
+    top: 100px;
+    left: 300px;
+}
+
+#yesil {
+    background-color: rgb(0, 255, 0);
+    top: 125px;
+    left: 300px;
+}
+
+#pempe {
+    background-color: purple;
+    top: 150px;
+    left: 300px;
+}
+
+#b {
+    top: 100px;
+    left: 325px;
+}
+
+#c {
+    top: 125px;
+    left: 325px;
+}
+
+#d {
+    top: 150px;
+    left: 325px;
+}
+
+.h5 {
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+}
